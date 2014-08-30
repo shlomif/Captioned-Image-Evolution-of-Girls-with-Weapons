@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="486.63852"
-   height="1411.921"
+   height="1589.0851"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7744482"
-     inkscape:cx="407.52719"
-     inkscape:cy="389.96715"
+     inkscape:cx="405.10531"
+     inkscape:cy="607.12993"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -56,7 +56,7 @@
        spacingx="1cm"
        spacingy="1cm"
        originx="1.0013229cm"
-       originy="12.190095cm" />
+       originy="17.190058cm" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -206,12 +206,27 @@
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="35.433071"
-       y="1406.6929"
+       y="1583.8569"
        id="text3068"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3070"
          x="35.433071"
-         y="1406.6929">How menacing!</tspan></text>
+         y="1583.8569">How menacing!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="35.433071"
+       y="1406.6917"
+       id="text3062-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3064-6"
+         x="35.433071"
+         y="1406.6917">Melissa Joan Hart:</tspan><tspan
+         sodipodi:role="line"
+         x="35.433071"
+         y="1446.6917"
+         id="tspan3066-7">Finger</tspan></text>
   </g>
 </svg>
