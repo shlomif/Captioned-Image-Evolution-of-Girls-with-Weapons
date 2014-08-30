@@ -1,0 +1,21 @@
+=encoding utf8
+
+=head1 Captioned Image - “Have you heard of Plato? Aristotle? Socrates?”
+
+=head2 About
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+    inkscape ./philosophers-princes-bride.svg
+
+Busts of Plato, Aristotle and Socrates are taken from the wikipiedia.
+Film still is from
+L<https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29> .
+
+=head2 Creator
+
+L<http://www.shlomifish.org/> - Shlomi Fish.
+
+=cut
+
