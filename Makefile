@@ -12,5 +12,5 @@ $(PNG): $(SVG)
 $(JPEG): $(PNG)
 	convert $(PNG) $(JPEG)
 
-# upload: all
-#	rsync --progress -v -a --inplace human-hacking-field-guide-logo.svg hhfg-ad.svg hhfg-ad.svg.png $(__HOMEPAGE_REMOTE_PATH)/hhfg-graphics-demo/
+upload: all
+	rsync --progress -v -a --inplace $(PNG) $(SVG) *.jpg $(__HOMEPAGE_REMOTE_PATH)/evolution-of-girls-with-weapons/
