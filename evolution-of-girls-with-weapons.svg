@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1026.2075"
-   height="5630.4512"
+   width="1024"
+   height="5828.0083"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.095019028"
-     inkscape:cx="513.10376"
-     inkscape:cy="2815.2256"
+     inkscape:zoom="0.93395678"
+     inkscape:cx="475.55221"
+     inkscape:cy="5521.5613"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -56,8 +56,8 @@
        units="cm"
        spacingx="1cm"
        spacingy="1cm"
-       originx="8.391189cm"
-       originy="98.851264cm" />
+       originx="8.3911891cm"
+       originy="103cm" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -75,7 +75,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(297.32559,1075.4866)">
+     transform="translate(297.32559,1126.0415)">
     <image
        sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Evolution-of-Girls-with-Weapons/././mjh-CROPPED.jpg"
        xlink:href="./mjh-CROPPED.jpg"
@@ -134,21 +134,21 @@
        y="-852.67035" />
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="106.29922"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="214.14706"
        y="-1002.7574"
        id="text3001"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3003"
-         x="106.29922"
+         x="214.14706"
          y="-1002.7574"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">Evolution of</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">Evolution of</tspan><tspan
          sodipodi:role="line"
-         x="106.29922"
+         x="214.14706"
          y="-912.75739"
          id="tspan3009"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">Girls with Weapons</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">Girls with Weapons</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:131.01567078px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
@@ -162,7 +162,7 @@
          y="-967.00629" /></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-147.29623"
        y="-402.82251"
        id="text3011"
@@ -171,12 +171,12 @@
          id="tspan3013"
          x="-147.29623"
          y="-402.82251"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Sigourney Weaver:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Sigourney Weaver:</tspan><tspan
          sodipodi:role="line"
          x="-147.29623"
-         y="-320.93771"
+         y="-312.82251"
          id="tspan3015"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">A large gun in both hands</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">A large gun in both hands</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:131.01567078px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -190,7 +190,7 @@
          y="-369.09613" /></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-150.65479"
        y="1163.9507"
        id="text3021"
@@ -199,15 +199,15 @@
          x="-150.65479"
          y="1163.9507"
          id="tspan3025"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Keira Knightley:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Keira Knightley:</tspan><tspan
          sodipodi:role="line"
          x="-150.65479"
-         y="1245.8354"
+         y="1253.9507"
          id="tspan3048"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Sword</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Sword</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-150.33493"
        y="366.84341"
        id="text3042"
@@ -216,15 +216,15 @@
          id="tspan3044"
          x="-150.33493"
          y="366.84341"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Sarah Michelle Gellar:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Sarah Michelle Gellar:</tspan><tspan
          sodipodi:role="line"
          x="-150.33493"
-         y="448.72821"
+         y="456.84341"
          id="tspan3046"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Stake</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Stake</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-150.33493"
        y="2544.3228"
        id="text3050"
@@ -233,15 +233,15 @@
          id="tspan3052"
          x="-150.33493"
          y="2544.3228"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Summer Glau:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Summer Glau:</tspan><tspan
          sodipodi:role="line"
          x="-150.33493"
-         y="2626.2075"
+         y="2634.3228"
          id="tspan3054"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">One gun in each hand</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">One gun in each hand</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-149.15143"
        y="1819.5366"
        id="text3056"
@@ -250,15 +250,15 @@
          id="tspan3058"
          x="-149.15143"
          y="1819.5366"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Jennifer Lawrence:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Jennifer Lawrence:</tspan><tspan
          sodipodi:role="line"
          x="-149.15143"
-         y="1901.4214"
+         y="1909.5366"
          id="tspan3060"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Longbow</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Longbow</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-148.19185"
        y="3370.3096"
        id="text3062"
@@ -267,12 +267,12 @@
          id="tspan3064"
          x="-148.19185"
          y="3370.3096"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Emma Watson:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Emma Watson:</tspan><tspan
          sodipodi:role="line"
          x="-148.19185"
-         y="3452.1943"
+         y="3460.3096"
          id="tspan3066"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Wand</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Wand</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:130.80053711px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.27193117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -287,7 +287,7 @@
          style="stroke-width:5.27193117">How menacing!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030122999999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#128417;stroke-width:2.64030123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-152.2541"
        y="4139.0957"
        id="text3062-3"
@@ -296,11 +296,34 @@
          id="tspan3064-6"
          x="-152.2541"
          y="4139.0957"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Melissa Joan Hart:</tspan><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Melissa Joan Hart:</tspan><tspan
          sodipodi:role="line"
          x="-152.2541"
-         y="4220.9805"
+         y="4229.0957"
          id="tspan3066-7"
-         style="stroke-width:2.64030122999999994;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke:#128417;stroke-opacity:1">Finger</tspan></text>
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#128417;stroke-width:2.64030123;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">Finger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.24407196px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="-106.29921"
+       y="4602.2349"
+       id="text3020"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3022"
+         x="-106.29921"
+         y="4602.2349">Created by Shlomi Fish</tspan><tspan
+         sodipodi:role="line"
+         x="-106.29921"
+         y="4653.79"
+         id="tspan3024">http://www.shlomifish.org/</tspan></text>
+    <image
+       sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Evolution-of-Girls-with-Weapons/././evilphish-extract-no-glow.png"
+       xlink:href="./evilphish-extract-no-glow.png"
+       width="119.70098"
+       height="119.70098"
+       id="image3120"
+       x="-261.43307"
+       y="4553.3999" />
   </g>
 </svg>
