@@ -14,3 +14,7 @@ Photos were taken from the Internet.
 ## Creator
 
 [Shlomi Fish](https://www.shlomifish.org/)
+
+## Preview
+
+![Preview](./evolution-of-girls-with-weapons.svg.webp)
