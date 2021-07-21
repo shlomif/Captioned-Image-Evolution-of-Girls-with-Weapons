@@ -1,0 +1,31 @@
+== Captioned Image - Evolution of Girls With Weapons
+
+=== About
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+....
+inkscape ./evolution-of-girls-with-weapons.svg
+....
+
+See
+https://www.shlomifish.org/humour/image-macros/indiv-nodes/evolution_of_girls_w_weapons.xhtml[the
+captioned image's page on my site]
+
+Photos were taken from the Internet.
+
+=== Creator
+
+https://www.shlomifish.org/[Shlomi Fish]
+
+=== Preview
+
+image:./evolution-of-girls-with-weapons.svg.webp[Preview]
+
+=== Update
+
+See the awesome Taylor Swift
+https://www.youtube.com/watch?v=QcIy9NiNbmo[response in her video for
+"Bad Blood"], which while I feel the song assaults my intelligence, it
+is great together with the video.
