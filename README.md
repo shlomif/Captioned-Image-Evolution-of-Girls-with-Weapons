@@ -7,7 +7,7 @@ edit it type:
 
     inkscape ./evolution-of-girls-with-weapons.svg
 
-See http://www.shlomifish.org/humour.html#evolution\_of\_girls\_w\_weapons .
+See https://www.shlomifish.org/humour/image-macros/indiv-nodes/evolution_of_girls_w_weapons.xhtml
 
 Photos were taken from the Internet.
 
@@ -18,3 +18,10 @@ Photos were taken from the Internet.
 ## Preview
 
 ![Preview](./evolution-of-girls-with-weapons.svg.webp)
+
+## Update
+
+See the awesome Taylor Swift
+[response in her video for "Bad Blood"](https://www.youtube.com/watch?v=QcIy9NiNbmo),
+which while I feel the song assaults my intelligence, it is great together with
+the video.
