@@ -7,7 +7,7 @@ edit it type:
 
     inkscape ./evolution-of-girls-with-weapons.svg
 
-See https://www.shlomifish.org/humour/image-macros/indiv-nodes/evolution_of_girls_w_weapons.xhtml
+See [the captioned image's page on my site](https://www.shlomifish.org/humour/image-macros/indiv-nodes/evolution_of_girls_w_weapons.xhtml)
 
 Photos were taken from the Internet.
 
